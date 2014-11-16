@@ -1,14 +1,4 @@
 
-# emacs-bliss-theme
+# Emacs bliss theme
 
-TODO: Add a proper README.md
-
-## Description
-
-## Usage
-
-## Licence
-
-## Contributing
-
-
+![](https://github.com/emacsfodder/emacs-bliss-theme/raw/master/bliss-theme.png)
